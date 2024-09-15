@@ -1,5 +1,5 @@
 # Image-Rec-Model
-Hugging Face Image Recognition Specifically Flower Type
+Hugging Face Image Recognition for vegetative flora
 
 USE THIS LINK TO INSTALL LIBRARIES: 
 
