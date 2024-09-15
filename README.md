@@ -1,5 +1,5 @@
 # Image-Rec-Model
-Hugging Face Image Recognition for vegetative flora
+Hugging Face Image Recognition to identify invasive floral species given image dataset and environment
 
 USE THIS LINK TO INSTALL LIBRARIES: 
 
